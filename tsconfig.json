@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": [ "es2018", "dom" ],
+    "target": "es5",
+    "strict": true,
+    "noImplicitReturns": true,
+    "sourceMap": true,
+    "outDir": "./dist"
+  }
+}
